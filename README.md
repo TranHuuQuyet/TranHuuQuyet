@@ -75,36 +75,7 @@
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-  <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api?username=TranHuuQuyet&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="170em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TranHuuQuyet&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"
-    alt="Top Languages"
-  />
-
-</div>
-
-<br>
-
-<div align="center">
-
-  <img
-    src="https://streak-stats.demolab.com?user=TranHuuQuyet&theme=github-dark-blue&hide_border=true&background=0D1117"
-    alt="GitHub Streak"
-  />
-
-</div>
-
----
 
 ## Contact
 
